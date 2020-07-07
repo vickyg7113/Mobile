@@ -14,7 +14,7 @@
     flex-wrap:wrap;
     justify-content:center;
     flex-direction:column;
-    margin-left:30px;
+    margin-left:25px;
    }
   body{
     background-color:orange;
@@ -45,7 +45,7 @@ img{
     justify-content:space-between;
     flex-direction:row;
     align-self:flex-start;
-    margin-left:30px;
+    margin-left:27px;
   }
  </style>
  </head> 
@@ -63,6 +63,7 @@ img{
    <img src="vam6.jpg">
    <img src="vam7.jpg">
    <img src="vam8.jpg"> 
+   <img src="vam9.jpg">
   </div>
  </body>
 </html>
