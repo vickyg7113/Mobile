@@ -8,15 +8,17 @@
   font-weight:bold;
   font-size:150%;
 }
-@media only screen and(max-width:600px){
+@media only screen and(max-width:480px){
   .pics{
     display:flex;
     flex-wrap:wrap;
     justify-content:center;
     flex-direction:column;
-    margin-left:35px;
+    margin-left:30px;
    }
-
+  body{
+    background-color:orange;
+   }
  
 
  
@@ -43,7 +45,7 @@ img{
     justify-content:space-between;
     flex-direction:row;
     align-self:flex-start;
-    margin-left:35px;
+    margin-left:30px;
   }
  </style>
  </head> 
