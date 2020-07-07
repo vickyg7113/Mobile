@@ -46,7 +46,7 @@ img{
     flex-direction:row;
     align-self:flex-start;
     margin-left:27px;
-    background-color:orange;
+
   }
  </style>
  </head> 
