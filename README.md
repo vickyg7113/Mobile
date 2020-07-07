@@ -15,16 +15,16 @@
    justify-content:center;
   margin-left:20px;
    }
-  body{
-   animation:bg-anime 30s infinite;
-   }
-  @keyframes bg-anime{
-    0%{background-color:orange}
-    25%{background-color:white}
-    50%{background-color:green}
-    75%{background-color:yellow}
-    100%{background-color:grey}
-   }
+
+ 
+
+ 
+  
+ 
+ 
+ 
+
+
 
 }
 
