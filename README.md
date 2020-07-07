@@ -14,7 +14,7 @@
     flex-wrap:wrap;
     justify-content:center;
     flex-direction:column;
-    margin-left:20px;
+    margin-left:35px;
    }
 
  
@@ -43,7 +43,7 @@ img{
     justify-content:space-between;
     flex-direction:row;
     align-self:flex-start;
-    margin-left:20px;
+    margin-left:35px;
   }
  </style>
  </head> 
