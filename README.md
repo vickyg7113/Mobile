@@ -10,10 +10,10 @@
 }
 @media only screen and(max-width:600px){
   .pics{
-   display:flex;
+    display:flex;
     flex-wrap:wrap;
-   justify-content:center;
-  margin-left:20px;
+    justify-content:center;
+    flex-direction:column;
    }
 
  
