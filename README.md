@@ -36,15 +36,15 @@ img{
     MY GALLERY 
   </header> 
   <div class="pics">
-   <img src="vamshi/temp.jpg">
-   <img src="vamshi/vam1.jpg">
-   <img src="vamshi/vam2.jpg">
-   <img src="vamshi/vam3.jpg">
-   <img src="vamshi/vam4.jpg">
-   <img src="vamshi/vam5.jpg">
-   <img src="vamshi/vam6.jpg">
-   <img src="vamshi/vam7.jpg">
-   <img src="vamshi/vam8.jpg"> 
+   <img src="temp.jpg">
+   <img src="vam1.jpg">
+   <img src="vam2.jpg">
+   <img src="vam3.jpg">
+   <img src="vam4.jpg">
+   <img src="vam5.jpg">
+   <img src="vam6.jpg">
+   <img src="vam7.jpg">
+   <img src="vam8.jpg"> 
   </div>
  </body>
 </html>
