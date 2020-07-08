@@ -14,11 +14,11 @@
     flex-wrap:wrap;
     justify-content:center;
     flex-direction:column;
-    margin-left:25px;
+
    }
-  body{
-    background-color:orange;
-   }
+
+
+
  
 
  
@@ -42,10 +42,10 @@ img{
 .pics{
     display:flex;
     flex-wrap:wrap;
-    justify-content:space-between;
+    justify-content:space-around;
     flex-direction:row;
-    align-self:flex-start;
-    margin-left:27px;
+   background-color:orange;
+    
 
   }
  </style>
